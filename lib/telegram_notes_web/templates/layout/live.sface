@@ -1,0 +1,4 @@
+<TelegramNotesWeb.Navbar id="navbar" current_path={@current_path}/>
+<main>
+{@inner_content}
+</main>

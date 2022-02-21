@@ -1,0 +1,12 @@
+message {
+  audio
+  text
+  video
+  voice
+  chat {
+    ...
+  }
+  from {
+    ...
+  }
+}
